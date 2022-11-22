@@ -35,6 +35,11 @@
 ### 비기능 요구사항에 대한 검증
 - Saga(pub/sub)
 => order, food에 대한 state, pay, delivery 소스 코드 수정
+- state
+![image](https://user-images.githubusercontent.com/100417759/203258290-d5b94a4f-7bd8-4059-9d7a-d44664081e4c.png)
+- pay
+![image](https://user-images.githubusercontent.com/100417759/203258552-6fad099a-49ee-473d-b43c-03ab4c94553b.png)
+-delivery
 
 
 - CQRS
@@ -49,6 +54,9 @@
 - Request / Response
 => order-> pay후 manager check
 ![image](https://user-images.githubusercontent.com/100417759/203256180-b66f08a6-f841-4809-b7b9-fc9f1a43d6b8.png)
+=> 가져오기
+![image](https://user-images.githubusercontent.com/100417759/203259173-c25bdfc8-268b-4962-aeca-8ec011d57f6a.png)
+
 
 - Circuit breaker
 => pay의 리소스의 application.yml에서 임계치 바꾸고 payment.java의 소스코드 수정해서 delay 발생 유도
