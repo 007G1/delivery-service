@@ -69,6 +69,6 @@
 
 - Gateway
 => gateway에 각 api 엔드포인트 설정(customer, food, delivery, pay)
-=> ![image](https://user-images.githubusercontent.com/100417759/203249962-075435fd-62ac-4847-bd6c-4495fb76dc8b.png)
+![image](https://user-images.githubusercontent.com/100417759/203260238-44ea5760-3be0-45cd-bd79-aabd54c2e9c1.png)
 
 
