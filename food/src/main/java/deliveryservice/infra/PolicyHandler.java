@@ -79,6 +79,34 @@ public class PolicyHandler{
         
 
     }
+    @StreamListener(value=KafkaProcessor.INPUT, condition="headers['type']=='Startdelivery'")
+    public void wheneverStartdelivery_State(@Payload Startdelivery startdelivery){
+
+        Startdelivery event = startdelivery;
+        System.out.println("\n\n##### listener State : " + startdelivery + "\n\n");
+
+
+        
+
+        // Sample Logic //
+
+        
+
+    }
+    @StreamListener(value=KafkaProcessor.INPUT, condition="headers['type']=='Enddelivery'")
+    public void wheneverEnddelivery_State(@Payload Enddelivery enddelivery){
+
+        Enddelivery event = enddelivery;
+        System.out.println("\n\n##### listener State : " + enddelivery + "\n\n");
+
+
+        
+
+        // Sample Logic //
+
+        
+
+    }
 
 }
 
