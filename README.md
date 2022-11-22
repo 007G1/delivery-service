@@ -27,7 +27,7 @@
 
 ## Event Storming 결과
 * MSAEz 로 모델링한 이벤트스토밍 결과:  
-![image](https://user-images.githubusercontent.com/100417759/203254344-8771c9e3-6bfb-4f7a-bc6d-9819a902d568.png)
+![image](https://user-images.githubusercontent.com/100417759/203260030-66c1972d-cf3b-4986-9c7a-74a71d80dfd6.png)
 
 
 
@@ -68,7 +68,7 @@
 => ![image](https://user-images.githubusercontent.com/100417759/203255017-fdd435a4-117d-4a04-8a68-6160757c631d.png)
 
 - Gateway
-=> gateway에 각 api 엔드포인트 설정(customer, front, rider, store)
+=> gateway에 각 api 엔드포인트 설정(customer, food, delivery, pay)
 => ![image](https://user-images.githubusercontent.com/100417759/203249962-075435fd-62ac-4847-bd6c-4495fb76dc8b.png)
 
 
