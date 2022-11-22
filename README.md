@@ -34,6 +34,9 @@
 
 ### 비기능 요구사항에 대한 검증
 - Saga(pub/sub)
+=> 카프카 설정(infra)
+![image](https://user-images.githubusercontent.com/100417759/203260866-76d62461-4ad9-47a5-ab22-3da5da0a325f.png)
+
 => order, food에 대한 state, pay, delivery 소스 코드 수정
 - state
 ![image](https://user-images.githubusercontent.com/100417759/203258290-d5b94a4f-7bd8-4059-9d7a-d44664081e4c.png)
