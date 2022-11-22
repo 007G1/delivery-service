@@ -56,10 +56,10 @@ order-> pay후 manager check
 ![image](https://user-images.githubusercontent.com/100417759/203233269-0004a085-955b-4fb0-949e-e77114693fc2.png)
 ![image](https://user-images.githubusercontent.com/100417759/203233325-bb6968b3-2f9e-4fab-a058-866bdf74b511.png)
 => 확인
-![image](https://user-images.githubusercontent.com/100417759/203255017-fdd435a4-117d-4a04-8a68-6160757c631d.png)
+-> ![image](https://user-images.githubusercontent.com/100417759/203255017-fdd435a4-117d-4a04-8a68-6160757c631d.png)
 
 - Gateway
 gateway에 각 api 엔드포인트 설정(customer, front, rider, store)
-![image](https://user-images.githubusercontent.com/100417759/203249962-075435fd-62ac-4847-bd6c-4495fb76dc8b.png)
+-> ![image](https://user-images.githubusercontent.com/100417759/203249962-075435fd-62ac-4847-bd6c-4495fb76dc8b.png)
 
 
